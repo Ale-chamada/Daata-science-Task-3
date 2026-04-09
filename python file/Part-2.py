@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('Titanic-Dataset.csv')
+df = pd.read_csv("python file/Titanic-Dataset.csv")
 
 print(df.head())
 print(df.info())

@@ -31,4 +31,4 @@ index_labels = [f"Std{i}" for i in range(1, 16)]
 df = pd.DataFrame(data, index=index_labels)
 
 # Display DataFrame
-df
+print(df)
